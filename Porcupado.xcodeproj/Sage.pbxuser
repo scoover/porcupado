@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	08831F1A13C96E2D00B99D17 /* Porcupado */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Porcupado;
+		sourceDirectories = (
+		);
+	};
+	08831F2613C96E3A00B99D17 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	08831F2713C96E3A00B99D17 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+		activeArchitecture = x86_64;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 08831F1A13C96E2D00B99D17 /* Porcupado */;
+		activeTarget = 8D15AC270486D014006FF6A4 /* Porcupado */;
+		codeSenseManager = 08831F2713C96E3A00B99D17 /* Code sense */;
+		executables = (
+			08831F1A13C96E2D00B99D17 /* Porcupado */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331968045;
+			PBXWorkspaceStateSaveDate = 331968045;
+		};
+		sourceControlManager = 08831F2613C96E3A00B99D17 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D15AC270486D014006FF6A4 /* Porcupado */ = {
+		activeExec = 0;
+		executables = (
+			08831F1A13C96E2D00B99D17 /* Porcupado */,
+		);
+	};
+}

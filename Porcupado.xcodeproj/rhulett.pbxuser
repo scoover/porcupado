@@ -1,0 +1,275 @@
+// !$*UTF8*$!
+{
+	089C1660FE840EACC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 634}}";
+			sepNavSelRange = "{96, 0}";
+			sepNavVisRange = "{0, 96}";
+			sepNavWindowFrame = "{{145, 270}, {1157, 762}}";
+		};
+	};
+	254123010F3E28620085D6A5 /* Controller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 611}}";
+			sepNavSelRange = "{246, 10}";
+			sepNavVisRange = "{0, 725}";
+		};
+	};
+	254123020F3E28620085D6A5 /* Controller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 2842}}";
+			sepNavSelRange = "{3968, 0}";
+			sepNavVisRange = "{3098, 1481}";
+			sepNavWindowFrame = "{{145, 270}, {1157, 762}}";
+		};
+	};
+	254123040F3E28910085D6A5 /* CFBrowserItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 634}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1550}";
+			sepNavWindowFrame = "{{15, 411}, {1157, 762}}";
+		};
+	};
+	254123050F3E28910085D6A5 /* CFBrowserItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 2352}}";
+			sepNavSelRange = "{2966, 0}";
+			sepNavVisRange = "{1707, 1585}";
+			sepNavWindowFrame = "{{15, 411}, {1157, 762}}";
+		};
+	};
+	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 866082900F66BA7700FD125B /* Porcupado */;
+		activeTarget = 8D15AC270486D014006FF6A4 /* Porcupado */;
+		addToTargets = (
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 866082A90F66BA8500FD125B /* Code sense */;
+		executables = (
+			866082900F66BA7700FD125B /* Porcupado */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 259279143;
+			PBXWorkspaceStateSaveDate = 259279143;
+		};
+		perUserProjectItems = {
+			861A40C90F687603007A429E /* PBXTextBookmark */ = 861A40C90F687603007A429E /* PBXTextBookmark */;
+			866771710F704AF700193EE0 /* PBXBookmark */ = 866771710F704AF700193EE0 /* PBXBookmark */;
+			866771730F704AF700193EE0 /* PBXBookmark */ = 866771730F704AF700193EE0 /* PBXBookmark */;
+			867113C00F7446A3008C11ED /* PBXTextBookmark */ = 867113C00F7446A3008C11ED /* PBXTextBookmark */;
+			867113DD0F744862008C11ED /* PBXTextBookmark */ = 867113DD0F744862008C11ED /* PBXTextBookmark */;
+			867113E70F7448AC008C11ED /* PBXTextBookmark */ = 867113E70F7448AC008C11ED /* PBXTextBookmark */;
+			867113E80F7448AC008C11ED /* PBXTextBookmark */ = 867113E80F7448AC008C11ED /* PBXTextBookmark */;
+			867113EA0F7448AC008C11ED /* PBXTextBookmark */ = 867113EA0F7448AC008C11ED /* PBXTextBookmark */;
+			86A21D760F72C707007A3680 /* PBXTextBookmark */ = 86A21D760F72C707007A3680 /* PBXTextBookmark */;
+			86A21D770F72C707007A3680 /* PBXTextBookmark */ = 86A21D770F72C707007A3680 /* PBXTextBookmark */;
+			86E690F10F74495B00A027F7 /* PBXTextBookmark */ = 86E690F10F74495B00A027F7 /* PBXTextBookmark */;
+			86E690F20F74495B00A027F7 /* PBXTextBookmark */ = 86E690F20F74495B00A027F7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 866082A80F66BA8500FD125B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1674, 11200}}";
+			sepNavSelRange = "{259, 0}";
+			sepNavVisRange = "{0, 2683}";
+			sepNavWindowFrame = "{{145, 270}, {1157, 762}}";
+		};
+	};
+	2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 994}}";
+			sepNavSelRange = "{1145, 0}";
+			sepNavVisRange = "{938, 599}";
+			sepNavWindowFrame = "{{439, 72}, {1157, 762}}";
+		};
+	};
+	861A40B90F68736A007A429E /* QLPreviewPanel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1098, 1540}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 1509}";
+			sepNavWindowFrame = "{{38, 390}, {1157, 762}}";
+		};
+	};
+	861A40C90F687603007A429E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 495";
+		rLen = 0;
+		rLoc = 13646;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 16333;
+	};
+	866082900F66BA7700FD125B /* Porcupado */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Porcupado;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	866082A80F66BA8500FD125B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	866082A90F66BA8500FD125B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	866771710F704AF700193EE0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 252039830F3E9EB200AB58B5 /* checkmark.png */;
+	};
+	866771730F704AF700193EE0 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 252039830F3E9EB200AB58B5 /* checkmark.png */;
+	};
+	867113C00F7446A3008C11ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		name = "MyDocument.h: 41";
+		rLen = 28;
+		rLoc = 976;
+		rType = 0;
+		vrLen = 589;
+		vrLoc = 732;
+	};
+	867113DD0F744862008C11ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 394";
+		rLen = 0;
+		rLoc = 14601;
+		rType = 0;
+		vrLen = 586;
+		vrLoc = 12871;
+	};
+	867113E70F7448AC008C11ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		name = "MyDocument.h: 47";
+		rLen = 0;
+		rLoc = 1145;
+		rType = 0;
+		vrLen = 594;
+		vrLoc = 732;
+	};
+	867113E80F7448AC008C11ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		name = "MyDocument.h: 54";
+		rLen = 0;
+		rLoc = 1457;
+		rType = 0;
+		vrLen = 1915;
+		vrLoc = 0;
+	};
+	867113EA0F7448AC008C11ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 670";
+		rLen = 17;
+		rLoc = 25255;
+		rType = 0;
+		vrLen = 3477;
+		vrLoc = 19396;
+	};
+	86A21D760F72C707007A3680 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 18";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 1801;
+		vrLoc = 2055;
+	};
+	86A21D770F72C707007A3680 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		name = "MyDocument.h: 12";
+		rLen = 0;
+		rLoc = 205;
+		rType = 0;
+		vrLen = 1113;
+		vrLoc = 0;
+	};
+	86E690F10F74495B00A027F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* MyDocument.h */;
+		name = "MyDocument.h: 47";
+		rLen = 0;
+		rLoc = 1145;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 938;
+	};
+	86E690F20F74495B00A027F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4ACFDCFA73011CA2CEA /* MyDocument.m */;
+		name = "MyDocument.m: 15";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 2683;
+		vrLoc = 0;
+	};
+	8D15AC270486D014006FF6A4 /* Porcupado */ = {
+		activeExec = 0;
+		executables = (
+			866082900F66BA7700FD125B /* Porcupado */,
+		);
+	};
+}

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Porcupado' target in the 'Porcupado' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

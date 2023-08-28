@@ -1,0 +1,516 @@
+TPorcupado
+v7
+r0
+t306251421.943416
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Info.plist Info.plist
+cCpResource build/Release/Porcupado.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+cStripNIB /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MainMenu.nib
+cStripNIB /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MyDocument.nib
+cCopyStringsFile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Release/Porcupado.app/Contents/Resources/bullseye.png bullseye.png
+cCpResource build/Release/Porcupado.app/Contents/Resources/checkmark.png checkmark.png
+cCpResource build/Release/Porcupado.app/Contents/Resources/folder.png folder.png
+cCpResource build/Release/Porcupado.app/Contents/Resources/PorcupadoIcon.icns PorcupadoIcon.icns
+cCpResource build/Release/Porcupado.app/Contents/Resources/iconApp.icns iconApp.icns
+cProcessPCH /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch.gch Porcupado_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/MyDocument.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/main.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Controller.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/CFBrowserItem.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/NSImage+QuickLook.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/FileDragView.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado normal x86_64
+cGenerateDSYMFile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app.dSYM /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado
+cTouch /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/ImageKit.framework/Headers/ImageKit.h
+c000000004864CAFE0000000000000287
+t1214565118
+s647
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/ImageKit.framework/ImageKit
+c000000004B760CD6000000000009E9BC
+t1266027734
+s649660
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h
+c000000004864B40300000000000002FB
+t1214559235
+s763
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B760CD900000000000D66EC
+t1266027737
+s878316
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QuickLook.framework/Headers/QuickLook.h
+c000000004864BE010000000000000166
+t1214561793
+s358
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+c000000004B760CD900000000000243A8
+t1266027737
+s148392
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.h
+c0000000049BC24CE000000000000060E
+t1237066958
+s1550
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m
+c0000000049C02A0F00000000000013A7
+t1237330447
+s5031
+i"CFBrowserItem.h"
+i<ImageKit/ImageKit.h>
+i"NSImage+QuickLook.h"
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.h
+c0000000049BFDA7500000000000002D5
+t1237310069
+s725
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m
+c0000000049C2862B00000000000016B0
+t1237485099
+s5808
+i"Controller.h"
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/Credits.rtf
+c0000000049B5EE5F0000000000000142
+t1236659807
+s322
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/InfoPlist.strings
+c0000000049C0056D00000000000000C2
+t1237321069
+s194
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MainMenu.nib
+c0000000049C411130000000000000088
+t1237586195
+s136
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MyDocument.nib
+c0000000049C28F3D0000000000000088
+t1237487421
+s136
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.h
+c00000000498B542D0000000000000363
+t1233867821
+s867
+i<Cocoa/Cocoa.h>
+i<QuartzCore/CoreAnimation.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m
+c00000000498B54B90000000000001148
+t1233867961
+s4424
+i"FileDragView.h"
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/IKImageFlowView.h
+c0000000048A459930000000000001E4B
+t1218730387
+s7755
+i<Cocoa/Cocoa.h>
+i<ImageKit/ImageKit.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.h
+c0000000049C41117000000000000077B
+t1237586199
+s1915
+i<Cocoa/Cocoa.h>
+i"CFBrowserItem.h"
+i"IKImageFlowView.h"
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m
+c000000004B29D15400000000000078BA
+t1261031764
+s30906
+i"MyDocument.h"
+i"FileDragView.h"
+i"QLPreviewPanel.h"
+i"Controller.h"
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.h
+c00000000472668AF0000000000000103
+t1193699503
+s259
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m
+c000000004729C1F200000000000007D1
+t1193918962
+s2001
+i"NSImage+QuickLook.h"
+i<QuickLook/QuickLook.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/PorcupadoIcon.icns
+c0000000049BDD174000000000003BD03
+t1237176692
+s244995
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Porcupado_Prefix.pch
+c00000000498DF01D0000000000000095
+t1234038813
+s149
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/QLPreviewPanel.h
+c0000000049B83C0F0000000000000E30
+t1236810767
+s3632
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/CFBrowserItem.o
+t1284558562
+s30768
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Controller.o
+t1284558562
+s40744
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/FileDragView.o
+t1284558562
+s37932
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/MyDocument.o
+t1284558563
+s101188
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/NSImage+QuickLook.o
+t1284558562
+s14716
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Porcupado.LinkFileList
+c000000004C90CEDE000000000000035A
+t1284558558
+s858
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/main.o
+t1284558562
+s5088
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app.dSYM
+t1284558563
+s102
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/Credits.rtf
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/MyDocument.nib
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/PorcupadoIcon.icns
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/bullseye.png
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/checkmark.png
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/folder.png
+t2
+s0
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/iconApp.icns
+t1284558558
+s185665
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/bullseye.png
+c00000000498A26CC000000000000124F
+t1233790668
+s4687
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/checkmark.png
+c00000000498E6C8B00000000000013AD
+t1234070667
+s5037
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/folder.png
+c00000000498F625B0000000000004B78
+t1234133595
+s19320
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/iconApp.icns
+c000000004C90CE66000000000002D541
+t1284558438
+s185665
+
+N/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m
+c00000000498DF01D00000000000000F7
+t1234038813
+s247
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C90CF300000000000000538
+t1284558640
+s1336
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306251421#306251421#0(0"0(0#1#0"8602192416#0"0#
+
+CCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/CFBrowserItem.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251362.268345
+e306251362.689643
+r1
+xCompileC
+xbuild/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/CFBrowserItem.o
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m306251362#306251362#0(0"0(0#0#76"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m8606017248#1544"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -include /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/CFBrowserItem.m -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/CFBrowserItem.o0#
+
+CCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Controller.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251362.267644
+e306251362.617979
+r1
+xCompileC
+xbuild/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Controller.o
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m306251362#306251362#0(0"0(0#0#73"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m8606526176#1538"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -include /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Controller.m -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Controller.o0#
+
+CCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/FileDragView.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251362.618102
+e306251362.861007
+r1
+xCompileC
+xbuild/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/FileDragView.o
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m: In function '-[FileDragView draggingEntered:]':
+o/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m:112: warning: conflicting types for '-(unsigned int)draggingEntered:(id <NSDraggingInfo>)sender'
+o/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDragging.h:56: warning: previous declaration of '-(NSDragOperation)draggingEntered:(id <NSDraggingInfo>)sender'
+lSLF07#2@83"Compile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m306251362#306251362#0(494"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m: In function '-[FileDragView draggingEntered:]':/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m:112: warning: conflicting types for '-(unsigned int)draggingEntered:(id <NSDraggingInfo>)sender'/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDragging.h:56: warning: previous declaration of '-(NSDragOperation)draggingEntered:(id <NSDraggingInfo>)sender'2(22@82"Conflicting types for '-(unsigned int)draggingEntered:(id <NSDraggingInfo>)sender'306251362#125#173#0(6@75"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m255560761#112#0#112#0#25"conflicting types for '*'0(22@87"Previous declaration of '-(NSDragOperation)draggingEntered:(id <NSDraggingInfo>)sender'306251362#298#196#0(6@94"/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSDragging.h236253961#56#0#56#0#0"0(0#0#75"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m8606630560#1542"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -include /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/FileDragView.m -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/FileDragView.o0#
+
+CCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/MyDocument.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251362.265940
+e306251363.198294
+r1
+xCompileC
+xbuild/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/MyDocument.o
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m306251362#306251363#0(0"0(0#0#73"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m8608300864#1538"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -include /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/MyDocument.m -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/MyDocument.o0#
+
+CCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/NSImage+QuickLook.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251362.507717
+e306251362.699321
+r1
+xCompileC
+xbuild/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/NSImage+QuickLook.o
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m306251362#306251362#0(0"0(0#0#80"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m8602408032#1552"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -include /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/NSImage+QuickLook.m -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/NSImage+QuickLook.o0#
+
+CCompileC build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/main.o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251362.266949
+e306251362.507576
+r1
+xCompileC
+xbuild/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/main.o
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m306251362#306251362#0(0"0(0#0#67"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m8608075616#1526"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -include /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/main.m -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s306251358.363836
+e306251358.789538
+r1
+xCopyStringsFile
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings306251358#306251358#0(0"0(0#0#92"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/InfoPlist.strings8606476192#414"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/Porcupado.app/Contents/Resources/English.lproj/Credits.rtf English.lproj/Credits.rtf
+s306251358.361707
+e306251358.423015
+r1
+xCpResource
+xbuild/Release/Porcupado.app/Contents/Resources/English.lproj/Credits.rtf
+xEnglish.lproj/Credits.rtf
+lSLF07#2@30"Copy English.lproj/Credits.rtf306251358#306251358#0(0"0(0#0#86"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/Credits.rtf8606585280#446"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/Credits.rtf /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Release/Porcupado.app/Contents/Resources/PorcupadoIcon.icns PorcupadoIcon.icns
+s306251358.424994
+e306251358.438219
+r1
+xCpResource
+xbuild/Release/Porcupado.app/Contents/Resources/PorcupadoIcon.icns
+xPorcupadoIcon.icns
+lSLF07#2@23"Copy PorcupadoIcon.icns306251358#306251358#0(0"0(0#0#79"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/PorcupadoIcon.icns8606190720#425"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/PorcupadoIcon.icns /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources0#
+
+CCpResource build/Release/Porcupado.app/Contents/Resources/bullseye.png bullseye.png
+s306251358.423112
+e306251358.435475
+r1
+xCpResource
+xbuild/Release/Porcupado.app/Contents/Resources/bullseye.png
+xbullseye.png
+lSLF07#2@17"Copy bullseye.png306251358#306251358#0(0"0(0#0#73"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/bullseye.png8606316192#419"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/bullseye.png /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources0#
+
+CCpResource build/Release/Porcupado.app/Contents/Resources/checkmark.png checkmark.png
+s306251358.423838
+e306251358.435913
+r1
+xCpResource
+xbuild/Release/Porcupado.app/Contents/Resources/checkmark.png
+xcheckmark.png
+lSLF07#2@18"Copy checkmark.png306251358#306251358#0(0"0(0#0#74"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/checkmark.png8606292928#420"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/checkmark.png /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources0#
+
+CCpResource build/Release/Porcupado.app/Contents/Resources/folder.png folder.png
+s306251358.424454
+e306251358.436078
+r1
+xCpResource
+xbuild/Release/Porcupado.app/Contents/Resources/folder.png
+xfolder.png
+lSLF07#2@15"Copy folder.png306251358#306251358#0(0"0(0#0#71"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/folder.png8606253984#417"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/folder.png /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources0#
+
+CCpResource build/Release/Porcupado.app/Contents/Resources/iconApp.icns iconApp.icns
+s306251358.425485
+e306251358.430224
+r1
+xCpResource
+xbuild/Release/Porcupado.app/Contents/Resources/iconApp.icns
+xiconApp.icns
+lSLF07#2@17"Copy iconApp.icns306251358#306251358#0(0"0(0#0#73"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/iconApp.icns8606157856#419"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/iconApp.icns /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources0#
+
+CGenerateDSYMFile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app.dSYM /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado
+s306251363.760091
+e306251363.820387
+r1
+xGenerateDSYMFile
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app.dSYM
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado
+lSLF07#2@102"GenerateDSYMFile build/Release/Porcupado.app.dSYM build/Release/Porcupado.app/Contents/MacOS/Porcupado306251363#306251363#0(0"0(0#0#113"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado8608111488#311"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/usr/bin/dsymutil /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app.dSYM0#
+
+CLd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado normal x86_64
+s306251363.198377
+e306251363.759958
+r1
+xLd
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado
+xnormal
+xx86_64
+lSLF07#2@118"Link /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado306251363#306251363#0(0"0(0#0#0"8606649664#956"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -filelist /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Objects-normal/x86_64/Porcupado.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework ImageKit -framework QuickLook -framework QuartzCore -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/MacOS/Porcupado0#
+
+CProcessInfoPlistFile /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Info.plist Info.plist
+s306251421.933001
+e306251421.939170
+r1
+xProcessInfoPlistFile
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist306251421#306251421#0(0"0(0#0#71"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Info.plist8608850304#376"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    builtin-infoPlistUtility Info.plist -genpkginfo /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch.gch Porcupado_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s306251359.320878
+e306251362.265744
+r1
+xProcessPCH
+x/var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch.gch
+xPorcupado_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Porcupado_Prefix.pch306251359#306251362#0(0"0(0#0#81"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Porcupado_Prefix.pch8608657568#1406"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/Porcupado.hmap -F/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks -F/Developer/SDKs/MacOSX10.5.sdk/System/Library/PrivateFrameworks -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/include -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources/x86_64 -I/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Porcupado.build/Release/Porcupado.build/DerivedSources -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/Porcupado_Prefix.pch -o /var/folders/Jt/JtCm+othFpCZ1ygugP3YLU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Porcupado_Prefix-echcjnczyrpiklaaawfcwdngvvol/Porcupado_Prefix.pch.gch0#
+
+CStripNIB /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MainMenu.nib
+s306251358.362853
+e306251359.320743
+r1
+xStripNIB
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib306251358#306251359#0(0"0(0#0#87"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MainMenu.nib8606523456#365"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/usr/bin/ibtool --strip /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MainMenu.nib0#
+
+CStripNIB /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MyDocument.nib
+s306251358.363367
+e306251359.320257
+r1
+xStripNIB
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MyDocument.nib
+lSLF07#2@37"StripNIB English.lproj/MyDocument.nib306251358#306251359#0(0"0(0#0#89"/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MyDocument.nib8606496864#369"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /Developer/usr/bin/ibtool --strip /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/English.lproj/MyDocument.nib0#
+
+CTouch /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app
+s306251421.940676
+e306251421.943362
+r1
+xTouch
+x/Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app
+lSLF07#2@94"Touch /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app306251421#306251421#0(0"0(0#0#0"8609275936#179"    cd /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado    /usr/bin/touch -c /Volumes/Mammoth/Users/randy/Documents/Programming/Porcupado/build/Release/Porcupado.app0#
+
